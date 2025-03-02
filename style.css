@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: url('https://pngtree.com/free-backgrounds-photos/cloudy-weather') no-repeat center center/cover;
+    color: white;
+    padding: 50px;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.6); /* Transparent black background */
+    padding: 20px;
+    box-shadow: 0px 0px 10px gray;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+}
